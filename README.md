@@ -8,4 +8,4 @@ Command-Line Application that asks for a search term and returns a random dad jo
 - Run `python3 dad-jokes.py`
 
 ### Screenshots
-<img width="374" alt="Screenshot 2023-03-11 at 1 31 44 PM" src="https://user-images.githubusercontent.com/95086147/224505615-fc1f0dab-1143-4cee-a38f-608ae5df4e63.png">
+<img width="621" alt="Screenshot 2023-03-11 at 1 41 15 PM" src="https://user-images.githubusercontent.com/95086147/224505987-8572b918-c781-4a52-823f-cb940601d085.png">
