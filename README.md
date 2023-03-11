@@ -4,6 +4,7 @@ Command-Line Application that asks for a search term and returns a random dad jo
 ## How To Use
 - Download dad-jokes.py
 - Open terminal
+- cd into folder containing dad-jokes.py
 - Run `python3 dad-jokes.py`
 
 ### Screenshots
