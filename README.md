@@ -12,4 +12,5 @@ Command-Line Application that asks for a search term and returns a random dad jo
 - [replit link](https://replit.com/@lauble/Random-Dad-Jokes#main.py)
 
 ### Screenshots
-<img width="621" alt="Screenshot 2023-03-11 at 1 41 15 PM" src="https://user-images.githubusercontent.com/95086147/224505987-8572b918-c781-4a52-823f-cb940601d085.png">
+
+<img width="647" alt="Screenshot 2023-03-13 at 10 26 36 AM" src="https://user-images.githubusercontent.com/95086147/224730895-546125cf-d510-4181-afa8-7fcca662cc85.png">
