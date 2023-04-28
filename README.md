@@ -9,7 +9,7 @@ Command-Line Application that asks for a search term and returns a random dad jo
 
 ### OR
 
-- [replit link](https://replit.com/@lauble/Random-Dad-Jokes#main.py)
+- Use this [replit link](https://replit.com/@lauble/Random-Dad-Jokes#main.py)
 
 ### Screenshots
 
